@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9A/FgPOMJD4=",
+  "success": true,
+  "projectFilePath": "D:\\study_it\\Itransition\\ItransitionTask3\\ItransitionTask3\\ItransitionTask3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

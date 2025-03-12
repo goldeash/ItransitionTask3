@@ -1,0 +1,17 @@
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\bin\Debug\net8.0\ItransitionTask3.exe
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\bin\Debug\net8.0\ItransitionTask3.deps.json
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\bin\Debug\net8.0\ItransitionTask3.runtimeconfig.json
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\bin\Debug\net8.0\ItransitionTask3.dll
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\bin\Debug\net8.0\ItransitionTask3.pdb
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.AssemblyInfoInputs.cache
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.AssemblyInfo.cs
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.csproj.CoreCompileInputs.cache
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.dll
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\refint\ItransitionTask3.dll
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.pdb
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.genruntimeconfig.cache
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ref\ItransitionTask3.dll
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\bin\Debug\net8.0\Spectre.Console.dll
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\ItransitionTask3.csproj.AssemblyReference.cache
+D:\study_it\Itransition\ItransitionTask3\ItransitionTask3\obj\Debug\net8.0\Itransit.287FC017.Up2Date
