@@ -20,7 +20,6 @@ namespace NonTransitiveDiceGame
                 {
                     if (face1 > face2) wins++;
                     else if (face1 < face2) losses++;
-                    // Ties are ignored
                 }
             }
 
