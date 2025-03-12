@@ -9,17 +9,14 @@ namespace NonTransitiveDiceGame
     {
         public static void Display(List<Dice> diceList)
         {
-            // Create a table
             var table = new Table();
 
-            // Add columns with headers
             table.AddColumn(new TableColumn("[bold cyan]User dice v[/]").Centered());
             foreach (var dice in diceList)
             {
                 table.AddColumn(new TableColumn($"[bold]{string.Join(",", dice.Faces)}[/]").Centered());
             }
 
-            // Add rows
             for (int i = 0; i < diceList.Count; i++)
             {
                 var row = new List<string> { $"[bold]{string.Join(",", diceList[i].Faces)}[/]" };
@@ -27,7 +24,7 @@ namespace NonTransitiveDiceGame
                 {
                     if (i == j)
                     {
-                        row.Add("[grey]-[/]"); // Diagonal placeholder
+                        row.Add("[grey]-[/]");
                     }
                     else
                     {
@@ -38,7 +35,6 @@ namespace NonTransitiveDiceGame
                 table.AddRow(row.ToArray());
             }
 
-            // Render the table
             AnsiConsole.Write(table);
         }
     }
